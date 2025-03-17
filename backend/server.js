@@ -6,6 +6,8 @@ import cookieParser from "cookie-parser";
 
 //Routes
 import authRoutes from "./routes/auth.route.js";
+import productRoutes from "./routes/product.route.js";
+
 import { connectDB } from "./lib/db.js";
 
 dotenv.config();
@@ -17,6 +19,7 @@ app.use(express.json()); //allows you to parse the body of the request
 app.use(cookieParser());
 
 app.use("/api/auth", authRoutes);
+app.use("/api/products", productRoutes);
 
 console.log("PortEnvioronment", PORT);
 
