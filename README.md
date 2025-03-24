@@ -1,4 +1,4 @@
-# 🛍️ ecom-shankhya
+# 🛍️ Silkshopper
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
@@ -6,7 +6,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green.svg)](https://www.mongodb.com/atlas)
 [![Stripe](https://img.shields.io/badge/Payments-Stripe-purple.svg)](https://stripe.com/)
 
-🚀 **ecom-shankhya** is a feature-rich **MERN-based** e-commerce platform that provides a seamless shopping experience with powerful backend capabilities. It integrates **Stripe** for secure payments, **Redis** for high-performance caching, and **MongoDB Atlas** for scalable data storage.
+🚀 **Silkshopper** is a feature-rich **MERN-based** e-commerce platform that provides a seamless shopping experience with powerful backend capabilities. It integrates **Stripe** for secure payments, **Redis** for high-performance caching, and **MongoDB Atlas** for scalable data storage.
 
 ---
 
